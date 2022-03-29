@@ -6,6 +6,6 @@ In short, we'll first seek an informal consensus. If a clear consensus cannot be
 
 ## JupyterLab Council size
 
-There is no limit to the size of the JupyterLab Council. We follow the [guidelines laid out](https://jupyter.org/governance/bootstrapping_decision_making.html#bootstrapping-decision-making-bodies) by the broader Jupyter governance model which encourages a large, highly participatory decision body:
+There is no limit to the size of the {{cookiecutter.team_name}} Council. We follow the [guidelines laid out](https://jupyter.org/governance/bootstrapping_decision_making.html#bootstrapping-decision-making-bodies) by the broader Jupyter governance model which encourages a large, highly participatory decision body:
 
 > The new governance model and decision-making guide is designed to support large, highly participatory decision-making bodies. As such, even Subprojects that have a clear decision-making body today may wish to increase the size of that body to include more contributors.
