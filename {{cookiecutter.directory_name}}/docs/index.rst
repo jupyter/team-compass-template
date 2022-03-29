@@ -1,12 +1,13 @@
 =============================
-Jupyter Notebook Team Compass
+{{cookiecutter.team_name}} Team Compass
 =============================
 
 
 This page contains links to the notes from team meetings
-with the Jupyter Notebook community. For more some more technical information
-and links to various Jupyter Notebook repositories, see the
-`Team Compass README <https://github.com/jupyter-Notebook/team-compass>`_.
+with the {{cookiecutter.team_name}} community.
+For more some more technical information and links to various
+{{cookiecutter.team_name}} repositories, see the
+`Team Compass README <{{cookiecutter.compass_repo}}>`_.
 
 Team Compass Resources
 ======================
@@ -26,7 +27,7 @@ governance and planning.
 Why have a Team Compass?
 ========================
 
-This repository helps the Jupyter Notebook team set a weekly
+This repository helps the {{cookiecutter.team_name}} team set a weekly
 course for project activity. Our overriding goal is continuous team and
 project improvement.
 
@@ -50,4 +51,5 @@ the burden and success.
 Code of Conduct
 ===============
 
-The Jupyter Notebook community follows the broader `Jupyter Community's Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>`_.
+The {{cookiecutter.team_name}} community follows the broader
+`Jupyter Community's Code of Conduct <https://jupyter.org/governance/conduct/code_of_conduct.html>`_.
