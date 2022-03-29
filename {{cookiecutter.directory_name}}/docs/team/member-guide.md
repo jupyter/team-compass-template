@@ -77,7 +77,7 @@ Having merge rights is both a privilege and a responsibility - please be
 thoughtful when using it! To that extent, here are a few guidelines when
 deciding to merge things into one of our repositories:
 
-* **Use your best judgment**. As a member of the JupyterLab Council, we trust
+* **Use your best judgment**. As a member of the {{cookiecutter.team_name}} Council, we trust
   your judgment, and we ask you to use your best judgment in deciding when to
   take an action.
 * **Make sure it's quality code**. We know this is somewhat subjective, but
