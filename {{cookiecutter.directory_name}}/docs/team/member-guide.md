@@ -46,10 +46,10 @@ We don't want team membership to
 be a big burden (many of us have one or more other jobs too!) but there are
 a few things that you should do as a new member:
 
-1. **"Watch" the [team compass repository](https://github.com/jupyterlab/team-compass)**
+1. **"Watch" the [`team-compass` repository]({{cookiecutter.compass_repo}})**
    so that you're notified when team conversations are happening.
 2. **Stay up-to-date on team meetings**. You can find a notes from previous meetings pinned at
-   the [top of the team-compass issues page](https://github.com/jupyterlab/team-compass/issues).
+   the [top of the `team-compass` issues page]({{cookiecutter.compass_repo}}/issues).
 3. **Vote**. Participate in at least 2/3 of votes happening in the team-compass repo. You should be automatically pinged on Github when a vote is called.
 4. **Let us know if you'll be unavailable** or out of town for an extended period
    of time. It's no problem if you need to focus on other things for a bit, but it's
