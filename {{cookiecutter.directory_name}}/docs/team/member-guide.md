@@ -2,7 +2,7 @@
 
 # Membership guidelines
 
-This page holds resources for members of the JupyterLab Council.
+This page holds resources for members of the {{cookiecutter.team_name}} Council.
 They're meant to guide members to be happy, productive members of the team!
 
 ## What are the team resources?
