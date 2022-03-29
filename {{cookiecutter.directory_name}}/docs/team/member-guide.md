@@ -10,11 +10,11 @@ They're meant to guide members to be happy, productive members of the team!
 There are a few resources that are particularly useful for team members. Here's
 a quick list to get you started.
 
-* [**The JupyterLab Team Compass**](https://github.com/jupyterlab/team-compass)
+* [**The {{cookiecutter.team_name}} Team Compass**]({{cookiecutter.compass_repo}})
   is a repository with lots of information about team-related things. It has
   development tips, information about team meetings, milestones and roadmaps,
   etc.
-* [**The JupyterLab Team Compass issues**](https://github.com/jupyterlab/team-compass/issues)
+* [**The {{cookiecutter.team_name}} Team Compass issues**]({{cookiecutter.compass_repo}}/issues)
   are where we often discuss specific, actionable things related to the *team*
   (e.g., discussing whether to change something in the team-compass repo).
 
