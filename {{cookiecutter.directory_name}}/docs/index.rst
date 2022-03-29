@@ -12,7 +12,7 @@ For more some more technical information and links to various
 Team Compass Resources
 ======================
 
-The following pages contain information about the Jupyter Notebook
+The following pages contain information about the {{cookiecutter.team_name}}
 team, resources for community members, and team practices for
 governance and planning.
 
