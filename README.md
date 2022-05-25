@@ -21,3 +21,8 @@ your team. You will be prompted for the following information:
 
 After this, you will have a directory containing a starting point for your
 `team-compass`.
+
+To set up a ReadTheDocs page, visit the [manual import page](https://readthedocs.org/dashboard/import/manual/).
+Under Admin -> Advanced Settings, select "Build pull requests for this project".
+Add other maintainers under Maintainers.
+Once the docs build, add the RTD link to the Repo page.
